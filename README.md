@@ -16,7 +16,7 @@ Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.ti
 A2) The dimensions are (314, 226, 8-bit depth).  
 
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
-A3) Phase contrast has the greater dynamic range of pixel intensity: 6~252 is greater than 20~255 of DiffInt.
+A3) Phase contrast has the greater dynamic range of pixel intensity: min 6~ max 252 is greater than min 20~ max 255 of DiffInt.
 
 #### *Task 2:*
 Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.tif) and convert all the signal in the red channel to the blue channel, export the file as a JPG and upload it to this repository in the [image_files](image_files) directory with the name "Composite.jpg".  
